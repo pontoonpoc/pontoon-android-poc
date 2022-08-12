@@ -1,5 +1,0 @@
-basepath = "."
-locales = ["en","es","de"]
-[[paths]]
-   reference = "values/strings.xml"
-   l10n = "values-{locale}/**"
